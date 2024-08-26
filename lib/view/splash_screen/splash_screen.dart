@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:netflix_clone/utils/image_constants.dart';
-import 'package:netflix_clone/view/home_screen/home_screen.dart';
 import 'package:netflix_clone/view/username_screen/username_screen.dart';
 
 class SplashScreen extends StatefulWidget {
